@@ -51,7 +51,7 @@
 ![18](README.assets/18.png) 
 ### `트위터` 
 ![21](README.assets/21.png) 
-__`바이든` __ 
+__`바이든`__ 
 
 >  today , together , build 
 >
