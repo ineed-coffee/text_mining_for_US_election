@@ -1,13 +1,13 @@
 # 📰 미국 대선 관련 뉴스 기사 & 트위터 & 토론 텍스트 마이닝을 통한 감성 분석 및 예측 👍 👎   
 
-\+ 멀티캠퍼스 딥러닝 기반 AI 엔지니어링 세미 1차 프로젝트 (NLP)
+\+ 멀티캠퍼스 딥러닝 기반 AI 엔지니어링 세미 1차 프로젝트 (NLP) (우수상 :star: ) 
 
 ​	
 
 - __참여__ : [**jw0831**](https://github.com/jw0831) , [**Parkjiwonha**](https://github.com/Parkjiwonha) , [**ineed-coffee**](https://github.com/ineed-coffee) , [**jylee1215**](https://github.com/jylee1215) 
 - __기간__ : 2020.10.29~2020.11.11
 - __주제__ : 미국 대선 관련 뉴스 기사 & 트위터 & 토론 텍스트를 활용하여 기초적인 자연처 전처리 과정을 통해 감성 분석 및 대선 예측
-- __결과보고서(전체 내용)__ :   [Here](https://github.com/ineed-coffee/text_mining_for_US_election/blob/master/%EA%B2%B0%EA%B3%BC%20%EB%B3%B4%EA%B3%A0%EC%84%9C/%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%EC%84%B8%EB%AF%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201%EC%A1%B0%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) <a><img src="https://media.giphy.com/media/mFknMI76h9WHmuukXw/giphy.gif" width="40px"></a> 
+- __결과보고서(전체 내용)__ :   [Here](https://drive.google.com/file/d/1ZaZFYiaszccdIro63gU2vP2HR_sLh6lT/view?usp=sharing) <a><img src="https://media.giphy.com/media/mFknMI76h9WHmuukXw/giphy.gif" width="40px"></a> 
 
 ---
 # 결과보고서 요약
